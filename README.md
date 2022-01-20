@@ -38,17 +38,44 @@ An e-commerce platform that can allow the user to create an account and add item
 
 ### Searching for items by category
 
+
+https://user-images.githubusercontent.com/37029188/150436587-6e891af6-60e3-4e8e-9f94-001dba3bd6ba.mov
+
+
 ### Sign up page
+
+https://user-images.githubusercontent.com/37029188/150436600-5df7e18c-1e79-41e8-872f-6ffecaad9a54.mov
+
 
 ### Adding items to shopping cart
 
+
+https://user-images.githubusercontent.com/37029188/150436631-6ad76915-943b-4420-ae91-1c59883a22a4.mov
+
+
 ### Deleting items from shopping cart
+
+
+https://user-images.githubusercontent.com/37029188/150436652-778a0139-5ceb-45e6-97fe-51a291c489b6.mov
+
 
 ### Logging back in
 
+
+https://user-images.githubusercontent.com/37029188/150436663-f0aca4fd-4274-4b9b-9c46-6c3e0d722a17.mov
+
+
 ### Checking out with Stripe
 
+
+https://user-images.githubusercontent.com/37029188/150436680-2d5c88bf-8ae5-4a6c-86a4-6608a81a6e79.mov
+
+
 ### Viewing order history
+
+
+https://user-images.githubusercontent.com/37029188/150436695-35cd046b-41a0-4fdc-87a7-89f08b82b6d1.mov
+
 
 ## Usage
 
